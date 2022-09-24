@@ -1,4 +1,4 @@
- ### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I am zakaria071!
+ ### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I am Zakaria071!
   
   
 - 👀 I’m interested in ...
@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 
 <!---
-zakaria071/zakaria071 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Zakaria071/Zakaria071 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -19,6 +19,6 @@ You can click the Preview link to take a look at your changes.
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50px"/>
 
 <!---
-zakaria071/zakaria071 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Zakaria071/Zakaria071 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
